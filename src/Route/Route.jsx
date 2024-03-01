@@ -5,6 +5,8 @@ import Home from "../Pages/Home/Home";
 import Donation from "../Pages/Donation/Donation";
 import About from "../Pages/About/About";
 import Statistics from "../Pages/Statistics/Statistics";
+import Login from "../Auth/Login/Login";
+import Register from "../Auth/Register/Register";
 
 const router = createBrowserRouter([
    {
@@ -14,6 +16,7 @@ const router = createBrowserRouter([
       children:[
          {
             path: '/',
+            loader: () => fetch('donation.json'),
             element: <Home></Home>
          },
          {
@@ -27,7 +30,16 @@ const router = createBrowserRouter([
          {
             path: '/statistics',
             element: <Statistics></Statistics>
+         },
+         {
+            path: '/login',
+            element: <Login></Login>
+         },
+         {
+            path: '/register',
+            element: <Register></Register>
          }
+
       ]
    },
 ]);

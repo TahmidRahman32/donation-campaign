@@ -1,0 +1,134 @@
+[
+   {
+      "id": 1,
+      "title": "School Supplies for Underprivileged Children",
+      "Education": true,
+      "Health": false,
+      "color": "#ff5733",
+      "donation_amount": 20,
+      "description": "Provide essential school supplies like notebooks, pencils, and backpacks to underprivileged children to support their education.",
+      "img": "https://i.postimg.cc/kMzrrm2s/Health.png",
+      "donation_quantity": 100
+   },
+   {
+      "id": 2,
+      "title": "Medical Equipment for Rural Clinics",
+      "Education": false,
+      "Health": true,
+      "color": "#47d147",
+      "donation_amount": 50,
+      "description": "Donate medical equipment such as stethoscopes, blood pressure monitors, and thermometers to rural clinics to improve healthcare access.",
+      "img": "https://i.postimg.cc/y83PtDJ6/Education.png",
+      "donation_quantity": 50
+   },
+   {
+      "id": 3,
+      "title": "Scholarships for Higher Education",
+      "Education": true,
+      "Health": false,
+      "color": "#1e90ff",
+      "donation_amount": 100,
+      "description": "Offer scholarships to deserving students from low-income families to pursue higher education and fulfill their academic potential.",
+      "img": "https://i.postimg.cc/QM390wgx/Food.png",
+      "donation_quantity": 10
+   },
+   {
+      "id": 4,
+      "title": "Nutritious Meals for Orphaned Children",
+      "Education": false,
+      "Health": true,
+      "color": "#ffcc00",
+      "donation_amount": 30,
+      "description": "Provide balanced and nutritious meals to orphaned children to ensure they grow up healthy and strong.",
+      "img": "https://i.postimg.cc/QCBmDC6q/Clothing.png",
+      "donation_quantity": 200
+   },
+   {
+      "id": 5,
+      "title": "Books for Community Libraries",
+      "Education": true,
+      "Health": false,
+      "color": "#663399",
+      "donation_amount": 10,
+      "description": "Donate books across various genres to community libraries to promote literacy and lifelong learning.",
+      "img": "https://i.postimg.cc/y83PtDJ6/Education.png",
+      "donation_quantity": 300
+   },
+   {
+      "id": 6,
+      "title": "Medical Vaccinations for Children",
+      "Education": false,
+      "Health": true,
+      "color": "#ff4d4d",
+      "donation_amount": 40,
+      "description": "Support vaccination programs for children in impoverished areas to prevent deadly diseases and improve overall health.",
+      "img": "https://i.postimg.cc/kMzrrm2s/Health.png",
+      "donation_quantity": 150
+   },
+   {
+      "id": 7,
+      "title": "STEM Education Workshops",
+      "Education": true,
+      "Health": false,
+      "color": "#33cccc",
+      "donation_amount": 25,
+      "description": "Organize STEM (Science, Technology, Engineering, Mathematics) workshops for students to foster innovation and critical thinking skills.",
+      "img": "https://i.postimg.cc/QM390wgx/Food.png",
+      "donation_quantity": 80
+   },
+   {
+      "id": 8,
+      "title": "Hygiene Kits for Disaster Relief",
+      "Education": false,
+      "Health": true,
+      "color": "#336699",
+      "donation_amount": 35,
+      "description": "Provide hygiene kits containing essential items like soap, toothpaste, and sanitary pads to those affected by natural disasters.",
+      "img": "https://i.postimg.cc/QCBmDC6q/Clothing.png",
+      "donation_quantity": 120
+   },
+   {
+      "id": 9,
+      "title": "Computer Labs for Rural Schools",
+      "Education": true,
+      "Health": false,
+      "color": "#990099",
+      "donation_amount": 200,
+      "description": "Equip rural schools with computer labs to bridge the digital divide and empower students with technology skills.",
+      "img": "https://i.postimg.cc/y83PtDJ6/Education.png",
+      "donation_quantity": 15
+   },
+   {
+      "id": 10,
+      "title": "Maternal Health Clinics",
+      "Education": false,
+      "Health": true,
+      "color": "#ff6666",
+      "donation_amount": 70,
+      "description": "Establish maternal health clinics in underserved areas to provide prenatal care and support to expecting mothers.",
+      "img": "https://i.postimg.cc/kMzrrm2s/Health.png",
+      "donation_quantity": 40
+   },
+   {
+      "id": 11,
+      "title": "Environmental Education Programs",
+      "Education": true,
+      "Health": false,
+      "color": "#009933",
+      "donation_amount": 15,
+      "description": "Support environmental education programs to raise awareness about conservation and sustainable practices.",
+      "img": "https://i.postimg.cc/QM390wgx/Food.png",
+      "donation_quantity": 90
+   },
+   {
+      "id": 12,
+      "title": "Mobile Health Clinics for Remote Communities",
+      "Education": false,
+      "Health": true,
+      "color": "#ff9966",
+      "donation_amount": 60,
+      "description": "Deploy mobile health clinics equipped with medical professionals to provide healthcare services to remote communities.",
+      "img": "https://i.postimg.cc/QCBmDC6q/Clothing.png",
+      "donation_quantity": 25
+   }
+]
